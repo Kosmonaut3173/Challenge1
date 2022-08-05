@@ -1,4 +1,4 @@
-# Challenge1
+# Refactoring Challenge
 
 ## Description
 
